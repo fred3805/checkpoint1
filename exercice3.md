@@ -7,9 +7,7 @@
 # 5: echo -e ( plus des \n pour des sauts de lignes )
 # 6: la commande ( fg ) foreground
 # 7:   couche 2: switch
-#      couche 3: routeur  ( pour        le                     reseau     tout         se          passe        automatiquement )
-# Modele OSI:          1: physique 2: liaison des données 3: réseau 4 : transport 5: sessions 6: présentation 7: applications ( sans tricher )
-# 8: cd = Set-Location
+#      couche 3: routeur 
 #     cp = Copy-Item
 #    mkdir = New-Item -ItemType Directory
 #     ls = Get-ChildItem
