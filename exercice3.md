@@ -9,7 +9,7 @@
 - "Même des tildes ~ ?"
 - "Evidemment !"
 - Pour chaque ligne, il faut faire un " echo "  
- 6: faire la commande: fg 37970   
+ 6: faire la commande: fg %1    
  7:   couche 2: switch  
      couche 3: routeur   
  8: cd = Set-Location  
