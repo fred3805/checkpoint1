@@ -1,4 +1,4 @@
- 1: cat etc/passwd  
+ 1: cat /etc/passwd  
  
  2: chmod 744 myfile  
  3: git add .gitignore  
