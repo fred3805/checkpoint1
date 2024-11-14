@@ -12,7 +12,7 @@
  6: faire la commande: fg 37970   
  7:   couche 2: switch  
      couche 3: routeur   
- 8: cd = Set-Location
+ 8: cd = Set-Location  
     cp = Copy-Item  
     mkdir = New-Item -ItemType Directory  
     ls = Get-ChildItem  
