@@ -8,8 +8,8 @@
 - "Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash \\ !"
 - "Même des tildes ~ ?"
 - "Evidemment !"
-- Pour chaque ligne, il faut faire un " echo "
- 6: faire la commande: fg 37970 
+- Pour chaque ligne, il faut faire un " echo "  
+ 6: faire la commande: fg 37970   
  7:   couche 2: switch  
      couche 3: routeur   
  8: cd = Set-Location
