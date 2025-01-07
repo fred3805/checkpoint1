@@ -15,3 +15,9 @@
 1.2 Montage
 
 ![exercice1 2](https://github.com/user-attachments/assets/37dad17f-0ec8-49de-b9b5-dc6b7e743ebc)
+
+
+**rajouter le fichier /etc/fstab :**  
+UUID=<ici on marque l'UUID sdb1> /mnt/data ext4 defaults 0 0  
+UUID=<ici on marque l'UUID sdb2> none swap sw 0 0  
+commenter l'ancienne partion swap
